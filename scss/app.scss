@@ -1,6 +1,45 @@
 @import "settings";
 @import "foundation";
 
+html {
+  background: url(../images/field-water-compressed.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+@media #{$large-up} {
+  body {
+    padding: 5rem;
+  }
+}
+
+body {
+  background: none;
+}
+
+h1 {
+  font-family: $font-family-cursive;
+}
+
+.vcard {
+  .org {
+    font-family: $font-family-cursive;
+  }
+
+  border: none;
+  background-color: $sun-ray;
+}
+
+.row {
+  background: $transparent-light-blue;
+}
+
+.row .row {
+  background: none;
+}
+
 // Or selectively include components
 // @import
 //   "foundation/components/accordion",
