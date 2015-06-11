@@ -1,6 +1,8 @@
-# Foundation Compass Template
+# Travel Inn Motel ND Website
 
-The easiest way to get started with Foundation + Compass.
+[A website for the Travel Inn Motel with locations in Oakes and Lamoure, North Dakota.](http://www.travelinnnd.com/)
+
+Uses Foundation and compass for easy CSS editing.
 
 ## Requirements
 
@@ -13,7 +15,7 @@ The easiest way to get started with Foundation + Compass.
 
   * [Download this starter compass project and unzip it](https://github.com/zurb/foundation-compass-template/archive/master.zip)
   * Run `bower install` to install the latest version of Foundation
-  
+
 Then when you're working on your project, just run the following command:
 
 ```bash
