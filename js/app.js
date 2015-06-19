@@ -25,7 +25,7 @@ $(document).ready(function (){
         src: 'images/lamoure/queen-beds.jpg',
         w: 1125,
         h: 1500,
-        title: "Comfortable queen-size beds in every LaMoure room."
+        title: "Brand new queen-size beds in every LaMoure room."
       }, {
         src: 'images/oakes/room-desk.jpg',
         w: 1500,
@@ -40,7 +40,7 @@ $(document).ready(function (){
         src: 'images/oakes/breakfast-nook-kitchen.jpg',
         w: 1125,
         h: 1500,
-        title: "The Oakes location has a breakfast nook where breakfast is served."
+        title: "The Oakes location has a nook where breakfast is served."
       }, {
         src: 'images/oakes/breakfast-nook-tables.jpg',
         w: 1500,
@@ -54,7 +54,7 @@ $(document).ready(function (){
         src: 'images/lamoure/fire-pit.jpg',
         w: 1500,
         h: 1125,
-        title: "The firepit in LaMoure is a great place to relax."
+        title: "Hang out with your canine or human buddies at the fire pit in LaMoure."
       }, {
         src: 'images/oakes/grill.jpg',
         w: 1125,
