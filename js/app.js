@@ -3,7 +3,8 @@
 $(document).foundation();
 
 $(document).ready(function (){
-  $('.gallery').click(function (){
+  $('.gallery').click(function (event){
+    event.preventDefault();
     var photoswipeEl = $('.pswp').get(0);
 
     var items = [{
