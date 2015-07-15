@@ -16,7 +16,7 @@ $(document).ready(function (){
         src: 'images/oakes/room-beds.jpg',
         w: 1500,
         h: 1125,
-        title: "Comfortable queen-size beds in every Oakes room."
+        title: "Comfortable beds in every Oakes room."
       }, {
         src: 'images/oakes/travel-inn-oakes-greenery.jpg',
         w: 1500,
